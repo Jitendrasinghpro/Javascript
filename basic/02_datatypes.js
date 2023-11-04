@@ -1,10 +1,34 @@
-const accountId = 3343432
-let accountEmail = "jitendrasingh950687@gmail.com"
-var accountpassword = "343434"
-accountcity = "jaipur"
-let accountState ="up"
+"use strict" // treat all js code as newer version
 
-/*prefer no to use var
-bacause of issue in blaock acope functional scope */
+// alert use  (3 - 3) we are using nodejs, not browser
 
-console.table([accountId, accountEmail, accountpassword, accountcity, accountState]);
+//always remember code readability should be high
+
+let name = "vikash"
+let age = 23
+let isloggedIn = false
+
+// datatypes names 
+
+// number => 2 to power 53
+// bigint
+// string => ""
+// boolean => true/false
+// null => standalone value
+// undefined =>
+// symbol => unique
+
+// objects
+
+// "typeof"(show witch type of datatype) how to use 
+
+console.log(typeof null); //Object
+console.log(typeof undefined); // undefined
+
+
+
+
+
+
+
+
